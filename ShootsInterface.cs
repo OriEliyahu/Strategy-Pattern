@@ -1,0 +1,4 @@
+interface Shoots
+{
+    void Shoot();
+}
